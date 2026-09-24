@@ -5,7 +5,7 @@ Thank you for your interest in contributing to DesignGenAI!
 ## Development Setup
 
 ```bash
-git clone https://github.com/Lumi-node/design-genai.git
+git clone https://github.com/Automate-Capture/design-genai.git
 cd design-genai
 pip install -e ".[dev]"
 ```

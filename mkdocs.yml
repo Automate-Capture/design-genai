@@ -1,10 +1,10 @@
 site_name: DesignGenAI
-site_url: https://lumi-node.github.io/design-genai/
+site_url: https://automate-capture.github.io/design-genai/
 site_description: "Generates designs from type embeddings using ANE-accelerated neural networks."
 site_author: Andrew Young
-repo_url: https://github.com/Lumi-node/design-genai
-repo_name: Lumi-node/design-genai
-edit_uri: edit/main/docs/
+repo_url: https://github.com/Automate-Capture/design-genai
+repo_name: Automate-Capture/design-genai
+edit_uri: edit/master/docs/
 
 theme:
   name: material
@@ -62,7 +62,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Lumi-node/design-genai
+      link: https://github.com/Automate-Capture/design-genai
   generator: false
 
 extra_css:

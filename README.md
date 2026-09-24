@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Lumi-node/design-genai"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"></a>
-  <a href="https://github.com/Lumi-node/design-genai"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+"></a>
-  <a href="https://github.com/Lumi-node/design-genai"><img src="https://img.shields.io/badge/Tests-7%20Files-green.svg" alt="7 Test Files"></a>
+  <a href="https://github.com/Automate-Capture/design-genai"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"></a>
+  <a href="https://github.com/Automate-Capture/design-genai"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+"></a>
+  <a href="https://github.com/Automate-Capture/design-genai"><img src="https://img.shields.io/badge/Tests-7%20Files-green.svg" alt="7 Test Files"></a>
 </p>
 
 ---

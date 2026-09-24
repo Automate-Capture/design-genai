@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Please open a [private security advisory](https://github.com/Lumi-node/design-genai/security/advisories/new)
+Please open a [private security advisory](https://github.com/Automate-Capture/design-genai/security/advisories/new)
 rather than a public issue, and allow a reasonable window before disclosure.
 
 ## Supported versions

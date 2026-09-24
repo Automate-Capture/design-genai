@@ -40,10 +40,10 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Lumi-node/design-genai"
-Documentation = "https://lumi-node.github.io/design-genai/"
-Repository = "https://github.com/Lumi-node/design-genai"
-Issues = "https://github.com/Lumi-node/design-genai/issues"
+Homepage = "https://github.com/Automate-Capture/design-genai"
+Documentation = "https://automate-capture.github.io/design-genai/"
+Repository = "https://github.com/Automate-Capture/design-genai"
+Issues = "https://github.com/Automate-Capture/design-genai/issues"
 
 [tool.ruff]
 line-length = 100
